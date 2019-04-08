@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace winapp_tjedan1
 {
-    public partial class Form1 : Form
+    public partial class Zadatak : Form
     {
-        public Form1()
+        public Zadatak()
         {
             InitializeComponent();
         }
